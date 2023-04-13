@@ -1,10 +1,10 @@
-import React, {Component, useState} from "react";
+import React from "react";
 import "./../styles/App.css";
 
-function App() {
+const App = () => {
   return (
-    <div id="main">
-      // Do not alter the main div
+    <div>
+      <h1>hello.!</h1>
     </div>
   );
 }
